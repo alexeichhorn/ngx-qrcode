@@ -1,4 +1,4 @@
-# ngx-qrcode2
+# ngx-qrcode4
 
 `ngx-qrcode2` An Angular 6  Component library for Generating QR (Quick Response ) Codes.
 
@@ -6,12 +6,12 @@ You can use the `ngx-qrcode2` to easily generate QR codes inside your Angular 6 
 
 >QR code (abbreviated from Quick Response Code) is the trademark for a type of matrix barcode (or two-dimensional barcode) first designed for the automotive industry in Japan. A barcode is a machine-readable optical label that contains information about the item to which it is attached. A QR code uses four standardized encoding modes (numeric, alphanumeric, byte/binary, and kanji) to efficiently store data; extensions may also be used. [Source](https://en.wikipedia.org/wiki/QR_code)
 
-## How to install ngx-qrcode2?
+## How to install ngx-qrcode4?
 
 To use ngx-qrcode in your project, install it via npm:
 
 ```bash
-$ npm install ngx-qrcode2 --save
+$ npm install ngx-qrcode4 --save
 ```
 
 ## How to use ngx-qrcode2?
